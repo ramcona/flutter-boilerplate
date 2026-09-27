@@ -1,0 +1,13 @@
+# Copy this file to key.properties (same directory) and fill in your values.
+# key.properties is gitignored — NEVER commit it.
+#
+# Generate a keystore:
+#   keytool -genkey -v \
+#     -keystore release.jks \
+#     -keyalg RSA -keysize 2048 -validity 10000 \
+#     -alias my-key-alias
+#
+storePassword=<your-store-password>
+keyPassword=<your-key-password>
+keyAlias=<your-key-alias>
+storeFile=../release.jks

@@ -1,0 +1,3 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Profile mode: same permissions as debug for profiling tools -->
+</manifest>

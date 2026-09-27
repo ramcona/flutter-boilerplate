@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Allow FlutterActivity to be re-launched during development without crashing -->
+    <application
+        android:usesCleartextTraffic="true" />
+</manifest>

@@ -1,0 +1,8 @@
+{
+  "@@locale": "id",
+  "appTitle": "Flutter Boilerplate",
+  "navHome": "Beranda",
+  "navSettings": "Pengaturan",
+  "errorGeneric": "Terjadi kesalahan. Silakan coba lagi.",
+  "loading": "Memuat…"
+}

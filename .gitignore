@@ -1,0 +1,33 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+.packages
+pubspec.lock   # uncomment to lock deps in a library; keep for apps
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties          # NEVER commit — contains signing secrets
+*.jks
+*.keystore
+
+# iOS / macOS
+ios/Pods/
+ios/.symlinks/
+macos/Pods/
+*.xcworkspace/xcuserdata/
+
+# Generated Drift files
+lib/data/database/app_database.g.dart
+lib/data/database/daos/*.g.dart
+
+# Generated l10n files
+lib/l10n/app_localizations*.dart
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store

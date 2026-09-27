@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "appTitle": "Flutter Boilerplate",
+  "@appTitle": { "description": "The application title displayed in the app bar." },
+
+  "navHome": "Home",
+  "@navHome": { "description": "Bottom nav label for the Home tab." },
+
+  "navSettings": "Settings",
+  "@navSettings": { "description": "Bottom nav label for the Settings tab." },
+
+  "errorGeneric": "Something went wrong. Please try again.",
+  "@errorGeneric": { "description": "Generic error message." },
+
+  "loading": "Loading…",
+  "@loading": { "description": "Loading indicator label." }
+}
